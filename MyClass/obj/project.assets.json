@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClass.csproj",
-      "projectName": "MyClass",
-      "projectPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClass.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClasses.csproj",
+      "projectName": "MyClasses",
+      "projectPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClasses.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\obj\\",
       "projectStyle": "PackageReference",
