@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClasses.csproj": {}
+    "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClasses\\MyClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClasses.csproj": {
+    "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClasses\\MyClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClasses.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClasses\\MyClasses.csproj",
         "projectName": "MyClasses",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\MyClasses.csproj",
+        "projectPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClasses\\MyClasses.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClass\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\source\\repos\\OOPClasses\\MyClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
