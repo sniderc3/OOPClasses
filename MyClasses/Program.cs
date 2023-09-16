@@ -4,7 +4,15 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string message = "none";
+
+            Display display = new Display();
+            
+            while (message != "exit")
+            {
+                message = display.GetMessage();
+                display.DisplayValue(message);
+            }            
         }
     }
 }
