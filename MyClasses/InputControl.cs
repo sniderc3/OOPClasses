@@ -23,5 +23,6 @@ namespace MyClasses
                 return message.ToLower();
             }            
         }
+        
     }
 }
