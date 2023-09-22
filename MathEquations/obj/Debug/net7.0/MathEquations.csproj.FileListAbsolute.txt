@@ -1,0 +1,14 @@
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\bin\Debug\net7.0\MathEquations.exe
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\bin\Debug\net7.0\MathEquations.deps.json
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\bin\Debug\net7.0\MathEquations.runtimeconfig.json
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\bin\Debug\net7.0\MathEquations.dll
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\bin\Debug\net7.0\MathEquations.pdb
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.AssemblyInfo.cs
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.dll
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\refint\MathEquations.dll
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.pdb
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\MathEquations.genruntimeconfig.cache
+C:\Users\Chris\source\repos\OOPClasses\MathEquations\obj\Debug\net7.0\ref\MathEquations.dll
